@@ -10,7 +10,7 @@
 ```
 Programmer (noun): Turning dreams into code.
 ```
-- :computer: Python is my go-to language but I'm also learning Javascript.
+- :computer: Java, Python and Javascript are my top 3 languages right now.
 - 👥 I’m looking to collaborate on projects involving full-stack web development, software development and machine learning.
 - 💬 Ask me about anything!
 
