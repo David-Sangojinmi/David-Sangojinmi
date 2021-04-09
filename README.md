@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm David
-Currently I'm a First Year Computer Science student at the University of Warwick, UK.
+Currently a First Year Computer Science student at the University of Warwick, UK.
 
 ---
 ### Coding 💻, Learning 📚, Growing 🌱
