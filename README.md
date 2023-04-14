@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I'm David
-Currently a Second Year Computer Science student at the University of Warwick, UK.
+Currently a Final Year Computer Science student at the University of Warwick, UK.
 
 ---
 ### Coding 💻, Learning 📚, Growing 🌱
@@ -9,7 +9,7 @@ Currently a Second Year Computer Science student at the University of Warwick, U
 Programmer (noun): Turning dreams into code.
 ```
 - :computer: Java, Javascript, and Python are my top 3 languages right now.
-- 👥 I’m looking to collaborate on projects involving full-stack web development and software development.
+- 👥 I’m looking to collaborate on software development projects.
 - 📫 You can reach me here
 [![Linkedin Badge](https://img.shields.io/badge/-David_Sangojinmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=white&link=https://www.linkedin.com/in/david-sangojinmi/)](https://www.linkedin.com/in/david-sangojinmi) 
 [![Gmail Badge](https://img.shields.io/badge/-davidsangojinmi@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidsangojinmi@gmail.com)](davidsangojinmi@gmail.com)
